@@ -134,7 +134,7 @@ body {
     padding: 2.25rem 2rem 1.25rem 2rem;
 }
 
-.text-container h4 {
+.text-container h2 {
     color: var(--Very-Dark-Grayish-Blue);
     margin-bottom: 1rem;
 }
@@ -300,13 +300,13 @@ body {
 }
 
 @media (min-width: 840px) {
-  .text-container h4 {
+  .text-container h2 {
     font-size: 1.125rem;
   }
 }
 
 @media (min-width: 870px) {
-  .text-container h4 {
+  .text-container h2 {
     font-size: 1.25rem;
     margin-bottom: 0.75rem;
   }
